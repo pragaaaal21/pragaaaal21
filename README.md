@@ -40,6 +40,5 @@
 * Web Developer  
 * Strong in Data Structures & Algorithms  
 * Building real-world projects
-* 
 
 

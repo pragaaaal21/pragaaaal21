@@ -28,8 +28,8 @@
 <table>
 <tr>
 <td colspan="2">
-<a href="https://github.com/pranith2305">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranith2305&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+<a href="https://github.com/pragaaaal21">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragaaaal21&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
 </a>
 </td>
 </tr>
